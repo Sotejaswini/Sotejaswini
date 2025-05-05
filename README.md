@@ -12,9 +12,8 @@ Prefinal-year CSE student at **IIT Dharwad** | 💻 Aspiring SDE with a passion 
 ## Featured Projects
 
 - [**SmartRESUMEscan**](https://github.com/Sotejaswini/SmartRESUMEscan)
-- Resume Scanner using NLP (Skill Matching & Text Classification)
--An NLP-powered tool to analyze and enhance resumes for modern tech roles
-
+  Resume Scanner using NLP (Skill Matching & Text Classification)
+  An NLP-powered tool to analyze and enhance resumes for modern tech roles
 
 
 - [**AI-project**](https://github.com/Sotejaswini/AI-project)  

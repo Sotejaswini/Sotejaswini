@@ -5,10 +5,8 @@ Prefinal-year CSE student at **IIT Dharwad** | 💻 Aspiring SDE with a passion 
 ---
 
 ## About Me
-- Focused on solving real-world problems using **AI, NLP**, and **Full-Stack Web Development**.
-- I enjoy working on ML-based applications and automation tools.
-- Currently exploring **Deep Learning**, **System Design**, and **Cloud-native development**.
-
+- 🌱Currently exploring **Deep Learning(PyTorch, Transformers)**, **System Design & DSA (via LeetCode)**
+- Focusing on solving real-world problems using **AI, NLP**, and **Full-Stack Web Development**.
 ---
 
 ## Featured Projects
@@ -20,28 +18,6 @@ Prefinal-year CSE student at **IIT Dharwad** | 💻 Aspiring SDE with a passion 
 - [**AI-project**](https://github.com/Sotejaswini/AI-project)  
   Core AI algorithm implementations – search, problem-solving, heuristics, and decision-making agents.  
   *(Python, AIMA-style logic)*
-
----
-### 🌱 Currently Learning
-
-- Deep Learning (PyTorch, Transformers)
-- System Design & DSA (via LeetCode)
-- Full-stack tools: Next.js, Tailwind CSS
----
-
-### 🧠 LeetCode & GitHub Stats
-
-#### LeetCode Profile
-[![LeetCode Stats](https://leetcard.jacoblin.cool/ChiduralaTejaswini?theme=dark&font=Roboto&ext=activity)](https://leetcode.com/u/ChiduralaTejaswini/)
-
-#### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sotejaswini&show_icons=true&theme=github_dark&hide_title=true" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sotejaswini&theme=github-dark-blue" width="47%"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sotejaswini&layout=compact&theme=github_dark&langs_count=8" width="47%"/>
-</p>
-
 ---
 ## 🛠️ Tech Stack
 
@@ -75,6 +51,19 @@ Prefinal-year CSE student at **IIT Dharwad** | 💻 Aspiring SDE with a passion 
 🗣️ Communication | ⏱️ Time Management | 🤝 Team Collaboration
 
 ---
+
+### 🧠 LeetCode & GitHub Stats
+
+#### LeetCode Profile
+[![LeetCode Stats](https://leetcard.jacoblin.cool/ChiduralaTejaswini?theme=dark&font=Roboto&ext=activity)](https://leetcode.com/u/ChiduralaTejaswini/)
+
+#### GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sotejaswini&show_icons=true&theme=github_dark&hide_title=true" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sotejaswini&theme=github-dark-blue" width="47%"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sotejaswini&layout=compact&theme=github_dark&langs_count=8" width="47%"/>
+</p>
 
 _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
 

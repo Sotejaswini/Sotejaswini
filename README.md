@@ -10,7 +10,7 @@ Prefinal-year CSE student at **IIT Dharwad** | 💻 Aspiring SDE with a passion 
 ---
 
 ## Featured Projects
-- [** SDN Ryu-Controller -- Load-Balancing with Dynamic-Routing**](https://github.com/Sotejaswini/SDN-based-Load-Balancing)
+- [**SDN Ryu-Controller -- Load-Balancing with Dynamic-Routing**](https://github.com/Sotejaswini/SDN-based-Load-Balancing)
   Ryu controller which performs DIJKSTRA algorithm to find best paths, based on traffic flowing through links.
 
 - [**SmartRESUMEscan**](https://github.com/Sotejaswini/SmartRESUMEscan)

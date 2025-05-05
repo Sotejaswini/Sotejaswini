@@ -27,16 +27,6 @@ Prefinal-year CSE student at **IIT Dharwad** | 💻 Aspiring SDE with a passion 
 - Deep Learning (PyTorch, Transformers)
 - System Design & DSA (via LeetCode)
 - Full-stack tools: Next.js, Tailwind CSS
-
----
-## 💡 Skills
-
-**Languages**: Python, JavaScript, C/C++  
-**Libraries/Tools**: NumPy, Pandas, Scikit-learn, NLTK, Regex  
-**Web Dev**: HTML, CSS, JavaScript, React, Next.js, Tailwind  
-**Tools & Platforms**: Git, GitHub, VSCode, Linux
-**Soft Skills**: Communication, Time Management, Team Collaboration
-
 ---
 
 ### 🧠 LeetCode & GitHub Stats
@@ -53,6 +43,41 @@ Prefinal-year CSE student at **IIT Dharwad** | 💻 Aspiring SDE with a passion 
 </p>
 
 ---
+## 🛠️ Tech Stack
+
+### 💻 Languages  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 📚 Libraries / Tools  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NLTK](https://img.shields.io/badge/-NLTK-010101?style=for-the-badge&logo=nltk&logoColor=white)
+![Regex](https://img.shields.io/badge/-Regex-000000?style=for-the-badge)
+
+### 🌐 Web Development  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### 🧰 Tools & Platforms  
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 💡 Soft Skills  
+🗣️ Communication | ⏱️ Time Management | 🤝 Team Collaboration
+
+---
+
+_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+
 
 ## 📫 Let's Connect!
 - 📧 Email: yonsiniwsajet17@gmail.com  

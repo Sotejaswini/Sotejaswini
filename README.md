@@ -11,13 +11,14 @@ Prefinal-year CSE student at **IIT Dharwad** | 💻 Aspiring SDE with a passion 
 
 ## Featured Projects
 
-- [**SmartRESUMEscan**](https://github.com/Sotejaswini/SmartRESUMEscan)  
-  An NLP-powered tool to analyze and enhance resumes for modern tech roles
+- [**SmartRESUMEscan**](https://github.com/Sotejaswini/SmartRESUMEscan)
+- Resume Scanner using NLP (Skill Matching & Text Classification)
+-An NLP-powered tool to analyze and enhance resumes for modern tech roles
 
 
 
 - [**AI-project**](https://github.com/Sotejaswini/AI-project)  
-   AI Sudoku Solver Using OCR
+   AI Sudoku Solver Using OCR(Computer Vision + AI)
 ---
 ## 🛠️ Tech Stack
 

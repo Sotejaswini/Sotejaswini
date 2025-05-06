@@ -26,7 +26,7 @@ Prefinal-year CSE student at **IIT Dharwad** | 💻 Aspiring SDE with a passion 
 #### LeetCode Profile
 ![Screenshot](https://github.com/Sotejaswini/las.jpg?raw=true)
 ## LeetCode Badges
-![Screenshot](https://github.com/Sotejaswini//main/leetcode_badges.png?raw=true)
+![Screenshot](https://github.com/Sotejaswini/main/leetcode_badges.png?raw=true)
 
 
 

@@ -21,7 +21,7 @@ Prefinal-year CSE student at **IIT Dharwad** | 💻 Aspiring SDE with a passion 
 - [**AI-project**](https://github.com/Sotejaswini/AI-project)  
    AI Sudoku Solver Using OCR(Computer Vision + AI)
 ---
-### LeetCode & GitHub Stats
+### LeetCode 
 
 #### LeetCode Profile
 [![LeetCode Stats](https://leetcard.jacoblin.cool/ChiduralaTejaswini?theme=dark&font=Roboto&ext=activity)](https://leetcode.com/u/ChiduralaTejaswini/)
@@ -59,7 +59,7 @@ Prefinal-year CSE student at **IIT Dharwad** | 💻 Aspiring SDE with a passion 
 
 ---
 
-#### GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sotejaswini&show_icons=true&theme=github_dark&hide_title=true" width="47%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sotejaswini&theme=github-dark-blue" width="47%"/>

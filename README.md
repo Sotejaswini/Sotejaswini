@@ -25,7 +25,7 @@ Prefinal-year CSE student at **IIT Dharwad** | 💻 Aspiring SDE with a passion 
 
 #### LeetCode Profile
 [![LeetCode Stats](https://leetcard.jacoblin.cool/ChiduralaTejaswini?theme=dark&font=Roboto&ext=activity)](https://leetcode.com/u/ChiduralaTejaswini/)
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username={ChiduralaTejaswini})
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username={Tejaswini})
 
 ---
 ## Tech Stack

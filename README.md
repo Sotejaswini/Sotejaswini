@@ -32,7 +32,7 @@ Final-year CSE student at **IIT Dharwad** | 💻 Aspiring SDE with a passion for
   <h2 align="center">Leetcode Info</h2>  
   <p align="center">
     <a href="https://leetcode.com/u/ChiduralaTejaswini/" target="_blank">
-      <img src="https://leetcode.com/medal/?showImg=0&id=7177973&isLevel=false" alt="medal1" height="200" width="200" />
+      <img src="DCC.gif" alt="medal1" height="200" width="200" />
     </a>
     <a href="https://leetcode.com/u/ChiduralaTejaswini/" target="_blank">
       <img src="https://leetcode.com/medal/?showImg=0&id=4357491&isLevel=false" alt="medal2" height="200" width="200" />

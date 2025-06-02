@@ -23,11 +23,7 @@ Final-year CSE student at **IIT Dharwad** | 💻 Aspiring SDE with a passion for
 ---
 ### LeetCode 
 
-#### LeetCode Profile
-![LeetCode Stats](https://leetcard.jacoblin.cool/ChiduralaTejaswini?theme=dark&ext=contest)
-
-## LeetCode Badges
-![LeetCode Badges](https://github.com/Sotejaswini/Sotejaswini/blob/main/leetcode_badges.png?raw=true)
+#### LeetCode Info
 <div align="center"> 
   <h2 align="center">Leetcode Info</h2>  
   <p align="center">
@@ -35,18 +31,17 @@ Final-year CSE student at **IIT Dharwad** | 💻 Aspiring SDE with a passion for
       <img src="DCC.gif" alt="medal1" height="200" width="200" />
     </a>
     <a href="https://leetcode.com/u/ChiduralaTejaswini/" target="_blank">
-      <img src="https://leetcode.com/medal/?showImg=0&id=4357491&isLevel=false" alt="medal2" height="200" width="200" />
+      <img src="25100.gif" alt="medal2" height="200" width="200" />
     </a>
     <a href="https://leetcode.com/u/ChiduralaTejaswini/" target="_blank">
-      <img src="https://leetcode.com/medal/?showImg=0&id=6814844&isLevel=false" alt="medal3" height="200" width="200" />
+      <img src="2024-50.gif" alt="medal3" height="200" width="200" />
     </a>
     <a href="https://leetcode.com/u/ChiduralaTejaswini/" target="_blank">
-      <img src="https://leetcode.com/medal/?showImg=0&id=5088454&isLevel=false" alt="medal4" height="200" width="200" />
+      <img src="2024-100-new.gif" alt="medal4" height="200" width="200" />
     </a>
   </p>
 </div>
-
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/ChiduralaTejaswini?theme=dark&ext=contest)
 ---
 ## Tech Stack
 

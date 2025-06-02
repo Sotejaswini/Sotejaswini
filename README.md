@@ -87,18 +87,14 @@ Final-year CSE student at **IIT Dharwad** | 💻 Aspiring SDE with a passion for
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sotejaswini&layout=compact&theme=github_dark&langs_count=8" width="47%"/>
 </p>
 
-_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
-
-
 ## Let's Connect!
-- 📧 Email: yonsiniwsajet17@gmail.com  
-- 💼 LinkedIn: (https://www.linkedin.com/in/chidurala-tejaswini-babb63269) <!-- Replace with your actual link -->
+- Email: yonsiniwsajet17@gmail.com  
+- LinkedIn: (https://www.linkedin.com/in/chidurala-tejaswini-babb63269) <!-- Replace with your actual link -->
 ---
 
 ## 😄 Pronouns:  
 She/Her  
-
 ---
 
 ## ⚡ Fun fact:  
-I taught an AI to read resumes, now it roasts mine better than recruiters do!
+“Code is like humor. When you have to explain it, it’s bad.” – Cory House

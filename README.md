@@ -42,9 +42,10 @@ Final-year CSE student at **IIT Dharwad** | 💻 Aspiring SDE with a passion for
   </p>
 </div>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ChiduralaTejaswini?theme=dark&ext=contest)
----
-## Tech Stack
 
+---
+
+### Tech Stack
 ### 💻 Languages  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)

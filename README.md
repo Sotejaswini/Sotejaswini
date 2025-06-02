@@ -21,8 +21,6 @@ Final-year CSE student at **IIT Dharwad** | 💻 Aspiring SDE with a passion for
 - [**AI-project**](https://github.com/Sotejaswini/AI-project)  
    AI Sudoku Solver Using OCR(Computer Vision + AI)
 ---
-#### LeetCode Info
-
 <div align="center"> 
   <h2 align="center">Leetcode Info</h2>  
   <p align="center">

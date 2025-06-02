@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chidurala Tejaswini!
 
-Prefinal-year CSE student at **IIT Dharwad** | 💻 Aspiring SDE with a passion for building intelligent, scalable software.
+Final-year CSE student at **IIT Dharwad** | 💻 Aspiring SDE with a passion for building intelligent, scalable software.
 
 ---
 
@@ -28,7 +28,14 @@ Prefinal-year CSE student at **IIT Dharwad** | 💻 Aspiring SDE with a passion 
 
 ## LeetCode Badges
 ![LeetCode Badges](https://github.com/Sotejaswini/Sotejaswini/blob/main/leetcode_badges.png?raw=true)
-
+<div align="center"> 
+<h2 align="center">Leetcode Info<h2>  
+<p align="center">
+  <a href="https://leetcode.com/u/ChiduralaTejaswini/" target="_blank"><img align="center" src="https://leetcode.com/medal/?showImg=0&id=7177973&isLevel=false" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/ChiduralaTejaswini/" target="_blank"><img align="center" src="https://leetcode.com/medal/?showImg=0&id=4357491&isLevel=false" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/ChiduralaTejaswini/" target="_blank"><img align="center" src="https://leetcode.com/medal/?showImg=0&id=6814844&isLevel=false" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/ChiduralaTejaswini/" target="_blank"><img align="center" src="https://leetcode.com/medal/?showImg=0&id=5088454&isLevel=false" alt="jyot" height="200" width="200" /></a>
+</p>
 
 ---
 ## Tech Stack

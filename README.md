@@ -18,7 +18,7 @@ Final-year CSE student at **IIT Dharwad** | 💻 Aspiring SDE with a passion for
   An NLP-powered tool to analyze and enhance resumes for modern tech roles
 
 
-- [**AI-project**](https://github.com/Sotejaswini/AI-project)  
+- [**AI-project**](https://github.com/Sotejaswini/AI-Sudoku-Solver-OCR)  
    AI Sudoku Solver Using OCR(Computer Vision + AI)
 ---
 <div align="center"> 

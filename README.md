@@ -82,7 +82,6 @@ Final-year CSE student at **IIT Dharwad** | 💻 Aspiring SDE with a passion for
 ### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sotejaswini&show_icons=true&theme=github_dark&hide_title=true" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sotejaswini&theme=github-dark-blue" width="47%"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sotejaswini&layout=compact&theme=github_dark&langs_count=8" width="47%"/>
 </p>

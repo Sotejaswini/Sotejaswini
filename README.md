@@ -15,7 +15,7 @@ Final-year CSE student at **IIT Dharwad** | 💻 Aspiring SDE with a passion for
 
 ### 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chidurala-tejaswini-babb63269)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto: yonsiniwsajet17@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yonsiniwsajet17@gmail.com)
 ---
 
 ## Featured Projects

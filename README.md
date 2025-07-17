@@ -1,4 +1,14 @@
 # 👋 Hi, I'm Chidurala Tejaswini!
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+👋;I’m+Chidurala+Tejaswini;Computer+Science+Engineer+Here+🚀;Let’s+Build+Something+Cool!&center=true&size=30">
+  </a>
+</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=said7388&color=brightgreen" alt="Profile Views">
+</p>
+
 
 Final-year CSE student at **IIT Dharwad** | 💻 Aspiring SDE with a passion for building intelligent, scalable software.
 

@@ -13,6 +13,11 @@ Final-year CSE student at **IIT Dharwad** | 💻 Aspiring SDE with a passion for
 - Focusing on solving real-world problems using **AI, NLP**, and **Full-Stack Web Development**.
 ---
 
+### 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chidurala-tejaswini-babb63269)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto: yonsiniwsajet17@gmail.com)
+---
+
 ## Featured Projects
 - [**SDN Ryu-Controller -- Load-Balancing with Dynamic-Routing**](https://github.com/Sotejaswini/SDN-based-Load-Balancing)
   Ryu controller which performs DIJKSTRA algorithm to find best paths, based on traffic flowing through links.

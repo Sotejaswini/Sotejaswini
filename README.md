@@ -5,10 +5,6 @@
   </a>
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=said7388&color=brightgreen" alt="Profile Views">
-</p>
-
 
 Final-year CSE student at **IIT Dharwad** | 💻 Aspiring SDE with a passion for building intelligent, scalable software.
 

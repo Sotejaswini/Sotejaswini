@@ -94,10 +94,6 @@ Final-year CSE student at **IIT Dharwad** | 💻 Aspiring SDE with a passion for
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sotejaswini&layout=compact&theme=github_dark&langs_count=8" width="47%"/>
 </p>
-
-## Let's Connect!
-- Email: yonsiniwsajet17@gmail.com  
-- LinkedIn: (https://www.linkedin.com/in/chidurala-tejaswini-babb63269) <!-- Replace with your actual link -->
 ---
 
 ## 😄 Pronouns:  

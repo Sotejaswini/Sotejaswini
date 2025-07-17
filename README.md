@@ -3,10 +3,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=4AF626&center=true&vCenter=true&width=800&lines=Hey+There!+👋;I'm+Chidurala+Tejaswini;Passionate+Computer+Science+Engineer+💻;Let’s+Build+Something+Awesome+Together!+🚀" alt="Typing SVG">
   </a>
 </h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4AF626&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Adithya+N+Raj+%F0%9F%91%8B)](https://git.io/typing-svg)<br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4AF626&center=true&vCenter=true&width=435&lines=Final+Year+Student+in+CSE+AI+%26+ML;Passionate+Researcher;Game+Developer;Ethical+Hacking+Enthusiast)](https://git.io/typing-svg)
-
-
 
 Final-year CSE student at **IIT Dharwad** | 💻 Aspiring SDE with a passion for building intelligent, scalable software.
 

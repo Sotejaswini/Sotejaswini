@@ -92,7 +92,6 @@ Final-year CSE student at **IIT Dharwad** | 💻 Aspiring SDE with a passion for
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sotejaswini&layout=compact&theme=github_dark&langs_count=8" width="47%"/>
 </p>
----
 
 ## 😄 Pronouns:  
 She/Her  

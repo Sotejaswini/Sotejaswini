@@ -94,9 +94,8 @@ Final-year CSE student at **IIT Dharwad** | 💻 Aspiring SDE with a passion for
 </p>
 
 ## 😄 Pronouns: 
-```
  She/Her  
-```
+
 
 ## ⚡ Fun fact:  
 “Code is like humor. When you have to explain it, it’s bad.” – Cory House

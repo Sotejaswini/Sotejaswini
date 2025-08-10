@@ -22,9 +22,9 @@ Final-year CSE student at **IIT Dharwad** | 💻 Aspiring SDE with a passion for
 - [**SDN Ryu-Controller -- Load-Balancing with Dynamic-Routing**](https://github.com/Sotejaswini/SDN-based-Load-Balancing)
   Ryu controller which performs DIJKSTRA algorithm to find best paths, based on traffic flowing through links.
 
-- [**SmartRESUMEscan**](https://github.com/Sotejaswini/SmartRESUMEscan)
-  Resume Scanner using NLP (Skill Matching & Text Classification)
-  An NLP-powered tool to analyze and enhance resumes for modern tech roles
+- [**SaaScribe**](https://github.com/Sotejaswini/SaaScribe)
+  Production-ready  AI SaaS platform with React, Node.js, PostgreSQL (Neon), and multi-modal AI (Gemini, ClipDrop).
+  Features content generation, image editing, and resume analysis with Clerk auth and subscription billing. Deployed on Vercel with serverless architecture.
 
 
 - [**AI-Sudoku-solver-OCR**](https://github.com/Sotejaswini/AI-Sudoku-Solver-OCR)  

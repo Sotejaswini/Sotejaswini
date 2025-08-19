@@ -4,9 +4,8 @@
   </a>
 </h1>
 
-Final-year CSE student at **IIT Dharwad** | 💻 Aspiring SDE with a passion for building intelligent, scalable software.
-Final-year CSE undergraduate from IIT Dharwad skilled in Python, C++, and deep learning, with experience in real-time computer vision, model deployment, strong foundation in software development and problem-solving.
-
+Final-year CSE student at **IIT Dharwad** skilled in Python, C++, and deep learning, with experience in real-time computer vision, model deployment, strong foundation in software development and problem-solving.
+ | 💻 Aspiring SDE with a passion for building intelligent, scalable software.
 ---
 
 ## About Me

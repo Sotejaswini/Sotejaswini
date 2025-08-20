@@ -8,7 +8,7 @@
 ---
 
 ## About Me
-- 🌱Currently exploring **Deep Learning(PyTorch, Transformers)**, **System Design & DSA (via LeetCode)**
+- 🌱Currently exploring **Deep Learning(PyTorch, Transformers)**, ** & DSA (via LeetCode)**
 - Focusing on solving real-world problems using **AI, NLP**, and **Full-Stack Web Development**.
 ---
 

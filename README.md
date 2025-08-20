@@ -3,12 +3,11 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=4AF626&center=true&vCenter=true&width=800&lines=Hey+There!+👋;I'm+Chidurala+Tejaswini+✨;Passionate+Computer+Science+Engineer+💻;Let’s+Build+Something+Awesome+Together!+🚀" alt="Typing SVG">
   </a>
 </h1>
-
-  - Final-year CSE student at **IIT Dharwad** skilled in Python, C++, and deep learning, with experience in real-time computer vision, model deployment, strong foundation in software development and problem-solving.
 ---
 
 ## About Me
-- 🌱Currently Focusing on solving real-world problems using **AI, NLP**, **Full-Stack Web Development**& **DSA (via LeetCode)**.
+- 🌱Currently Focusing on solving real-world problems using **AI, NLP**, **Full-Stack Web Development** & **DSA (via LeetCode)**.
+-  Final-year CSE student at **IIT Dharwad** skilled in Python, C++, and deep learning, with experience in real-time computer vision, model deployment, strong foundation in software development and problem-solving.
 ---
 
 ### 🌐 Connect With Me

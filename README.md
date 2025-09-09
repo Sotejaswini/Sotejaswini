@@ -13,19 +13,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chidurala-tejaswini-babb63269)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yonsiniwsajet17@gmail.com)
 ---
-
-## Featured Projects
-- [**SDN Ryu-Controller -- Load-Balancing with Dynamic-Routing**](https://github.com/Sotejaswini/SDN-based-Load-Balancing)
-  Ryu controller which performs DIJKSTRA algorithm to find best paths, based on traffic flowing through links.
-
-- [**SaaScribe**](https://github.com/Sotejaswini/SaaScribe)
-  Production-ready  AI SaaS platform with React, Node.js, PostgreSQL (Neon), and multi-modal AI (Gemini, ClipDrop).
-  Features content generation, image editing, and resume analysis with Clerk auth and subscription billing. Deployed on Vercel with serverless architecture.
-
-
-- [**AI-Sudoku-solver-OCR**](https://github.com/Sotejaswini/AI-Sudoku-Solver-OCR)  
-   AI Sudoku Solver Using OCR(Computer Vision + AI)
----
 <div align="center"> 
   <h2 align="center">Leetcode Info</h2>  
   <p align="center">

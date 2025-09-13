@@ -19,14 +19,14 @@
     <a href="https://leetcode.com/u/ChiduralaTejaswini/" target="_blank">
       <img src="DCC.gif" alt="medal1" height="200" width="200" />
     </a>
+      <a href="https://leetcode.com/u/ChiduralaTejaswini/" target="_blank">
+      <img src="365_new.gif" alt="medal3" height="200" width="200" />
+    </a>
     <a href="https://leetcode.com/u/ChiduralaTejaswini/" target="_blank">
       <img src="200.gif" alt="medal2" height="200" width="200" />
     </a>
     <a href="https://leetcode.com/u/ChiduralaTejaswini/" target="_blank">
       <img src="2024-100-new.gif" alt="medal4" height="200" width="200" />
-    </a>
-    <a href="https://leetcode.com/u/ChiduralaTejaswini/" target="_blank">
-      <img src="2024-50.gif" alt="medal3" height="200" width="200" />
     </a>
   </p>
 </div>

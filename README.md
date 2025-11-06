@@ -6,7 +6,7 @@
 
 ## About Me
 - 🌱Currently Focusing on solving real-world problems using **AI, NLP**, **Full-Stack Web Development** & **DSA (via LeetCode)**.
--  Final-year CSE student at **IIT Dharwad** skilled in Python, C++, and deep learning, with experience in real-time computer vision, model deployment, strong foundation in software development and problem-solving.
+-  Final-year CSE undergraduate from **IIT Dharwad** skilled in Python, C++, and deep learning, with gaining experience in real-time computer vision, model deployment, strong foundation in software development and problem-solving.
 ---
 
 ### 🌐 Connect With Me

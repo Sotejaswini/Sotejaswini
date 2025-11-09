@@ -38,7 +38,7 @@
 </p>
 
 ---
-### Skills
+<!--### Skills
 
 #### Programming Languages  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -68,7 +68,7 @@
 🗣️ Communication | ⏱️ Time Management | 🤝 Team Collaboration
 
 ---
-
+-->
 ### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sotejaswini&show_icons=true&theme=github_dark&hide_title=true" width="47%"/>
